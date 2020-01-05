@@ -1,4 +1,4 @@
-#Project AirCnC (code & coffee)
+# Project AirCnC (code & coffee)
 
 This project is about omnistack week 9.0, where the week's use of technologies such as Node Js, React and React Native work together.
 
@@ -12,7 +12,7 @@ This project was developed with the techniques most used by professional develop
 - [Expo](https://expo.io/)
 
 
-###Aditionals Challenges:
+### Aditionals Challenges:
 
 - [x] Do not allow altered reservations between approval and rejection.
 
