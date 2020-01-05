@@ -1,0 +1,4 @@
+PORT = 3333
+BD_HOST = host_do_banco/bd
+BD_USER = usuario_do_banco
+BD_PASSWORD = senha_do_banco
